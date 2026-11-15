@@ -80,3 +80,4 @@ Windows (PowerShell): `Get-FileHash AML_CTF_Fraud_Cybercrime_Job_Search_Playbook
 
 - LinkedIn: [my profile](https://www.linkedin.com/in/tina-sosteric/)
 - GitHub: Ari.0.0.1
+- TryHackMe: https://tryhackme.com/p/Ari.0.0.1
