@@ -52,6 +52,7 @@ This playbook does not guarantee a job. Take what helps, then work out what fits
 
 | Version | Date | What changed |
 |---|---|---|
+| 1.2 | 14 Nov 2026 | Fraud, AML podcasts added |
 | 1.1 | 14 Nov 2026 | Credit changed to Ari.0.0.1, extra note that the scenarios are imaginary |
 | 1.0 | 14 Nov 2026 | First release (not public) |
 
@@ -65,11 +66,11 @@ Only download the PDF from this repo or its Releases. If you got it somewhere el
 v1.2  a9914cbe83236a33834fbf0d267f6c2ac3340ee4fdaf6e428977cd5f90355c88
 ```
 
-Mac: `shasum -a 256 AML_CTF_Fraud_Cybercrime_Job_Search_Playbook_v1.1.pdf`
+Mac: `shasum -a 256 AML_CTF_Fraud_Cybercrime_Job_Search_Playbook_v1.2.pdf`
 
-Linux: `sha256sum AML_CTF_Fraud_Cybercrime_Job_Search_Playbook_v1.1.pdf`
+Linux: `sha256sum AML_CTF_Fraud_Cybercrime_Job_Search_Playbook_v1.2.pdf`
 
-Windows (PowerShell): `Get-FileHash AML_CTF_Fraud_Cybercrime_Job_Search_Playbook_v1.1.pdf` (it prints capital letters, which is fine, it's the same hash)
+Windows (PowerShell): `Get-FileHash AML_CTF_Fraud_Cybercrime_Job_Search_Playbook_v1.2.pdf` (it prints capital letters, which is fine, it's the same hash)
 
 ## License
 
