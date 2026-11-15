@@ -1,6 +1,6 @@
 # Breaking Into AML, CTF, Fraud & Cybercrime
 
-**The Complete Job Search Playbook** (free PDF, version 1.1)
+**The Complete Job Search Playbook** (free PDF, version 1.2)
 
 A free guide for people who want to get into anti-money laundering (AML), CTF, fraud, trust & safety and cybercrime work. Made by Ari.0.0.1.
 
@@ -10,7 +10,7 @@ A free guide for people who want to get into anti-money laundering (AML), CTF, f
 
 ## Why I made this
 
-I have skills and experience in fraud investigations (crypto/fintech), and a lot of people have reached out asking how to get into this field. Many more never dare to send a message. So I wrote everything down in one place, to make it a bit easier.
+I have skills and experience in fraud investigations (fintech environment), and a lot of people have reached out asking how to get into this field. Many more never dare to send a message. So I wrote everything down in one place, to make it a bit easier.
 
 I also recently became part of the cybersecurity community, where so much is open source and shared for free, and I'm very grateful for it. I love this mindset. Anyway, this is me giving back from the fraud side.
 
@@ -29,7 +29,7 @@ I also recently became part of the cybersecurity community, where so much is ope
 
 ## IMPORTANT: the scenarios are made up
 
-**All interview scenarios and sample answers in this playbook are imaginary.** They sound realistic on purpose, but they are invented. They did not happen. They are not based on real cases, real customers, real employers or my own work.
+**All interview scenarios and sample answers in this playbook are imaginary.** They sound realistic on purpose, but they are invented. They did not happen. They are not based on real cases, real customers, real industries or my own work.
 
 In your own interviews, please be careful about what you share, respect any NDA you signed, and ask the interviewer for an imaginary scenario ("how would you solve this?") instead of describing a real case. Interviewers should respect that too.
 
