@@ -4,7 +4,7 @@
 
 A free guide for people who want to get into anti-money laundering (AML), CTF, fraud, trust & safety and cybercrime work. Made by Ari.0.0.1.
 
-**Download:** `AML_CTF_Fraud_Cybercrime_Job_Search_Playbook_v1.1.pdf` (in this repo, and under Releases)
+**Download:** `AML_CTF_Fraud_Cybercrime_Job_Search_Playbook_v1.2.pdf` (in this repo, and under Releases)
 
 ---
 
@@ -37,7 +37,7 @@ In your own interviews, please be careful about what you share, respect any NDA 
 
 If you were hoping this teaches you how to commit fraud or get around detection: it won't help you, sorry. It is a job search guide for the people on the defending side. The scenarios are "what would I do if..." answers, not tricks, and there are no real detection rules, thresholds or internal procedures from any company in here. Save your time.
 
-## Not a holy bible
+## Not a magic wand
 
 This playbook does not guarantee a job. Take what helps, then work out what fits you.
 
@@ -62,7 +62,7 @@ A new version may follow with new ideas and questions from readers. If something
 Only download the PDF from this repo or its Releases. If you got it somewhere else, compare its SHA-256 hash with this one:
 
 ```
-v1.1  7aaa4bf25faf862fc1ce1c6f8ad477f79fe7e6c8448e741b61e77563059ffecd
+v1.2  a9914cbe83236a33834fbf0d267f6c2ac3340ee4fdaf6e428977cd5f90355c88
 ```
 
 Mac: `shasum -a 256 AML_CTF_Fraud_Cybercrime_Job_Search_Playbook_v1.1.pdf`
